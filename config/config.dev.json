@@ -5,8 +5,8 @@
     "DB": {
         "HOST": "127.0.0.1",
         "PORT": "5432",
-        "DATABASE": "usergo",
-        "USERNAME": "nest",
-        "PASSWORD": "nest"
+        "DATABASE": "postgres",
+        "USERNAME": "postgres",
+        "PASSWORD": "postgres"
     }
 }
