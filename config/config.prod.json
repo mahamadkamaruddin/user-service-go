@@ -6,7 +6,7 @@
         "HOST": "127.0.0.1",
         "PORT": "5432",
         "DATABASE": "usergo",
-        "USERNAME": "postgres",
-        "PASSWORD": "postgres"
+        "USERNAME": "nest",
+        "PASSWORD": "nest"
     }
 }
