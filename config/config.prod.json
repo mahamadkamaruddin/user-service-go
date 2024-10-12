@@ -5,7 +5,7 @@
     "DB": {
         "HOST": "127.0.0.1",
         "PORT": "5432",
-        "DATABASE": "postgres",
+        "DATABASE": "usergo",
         "USERNAME": "postgres",
         "PASSWORD": "postgres"
     }
