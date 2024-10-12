@@ -28,7 +28,7 @@ Content-Type: "application/json"
 
 ###
 // GetUserById
-GET http://localhost:4000/user/4df5f8f1-5cf0-41f8-a680-b841f17dc963
+GET http://localhost:4000/user/5b91bd32-d70f-45bc-9b7a-681ebc5a536e
 
 ###
 // GetOrgById
